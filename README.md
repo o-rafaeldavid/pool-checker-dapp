@@ -1,2 +1,2 @@
-# pool-checker-dapp
+# Pool Checker DApp (name TBD)
 My First DApp
